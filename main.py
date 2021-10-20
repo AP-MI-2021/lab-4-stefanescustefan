@@ -182,9 +182,6 @@ def main():
             lista_noua_A, lista_noua_B = oglindire_elemente_divizibile(lista_A, lista_B, lista_C)
             print(lista_noua_A)
             print(lista_noua_B)
-        elif optiune == "a":
-            print(lista_A)
-            print(lista_B)
         elif optiune == "x":
             end = True
 
